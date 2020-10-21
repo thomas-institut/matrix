@@ -1,0 +1,18 @@
+{
+  "name": "@thomas-inst/matrix",
+  "version": "1.0",
+  "description": "A matrix implementation",
+  "main": "Matrix.js",
+  "module": "Matrix.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.1.3",
+    "webpack-cli": "^4.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Rafael Nájera",
+  "license": "GPL-3.0-or-later"
+}
