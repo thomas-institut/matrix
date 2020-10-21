@@ -1,6 +1,6 @@
 {
   "name": "@thomas-inst/matrix",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "A matrix implementation",
   "main": "Matrix.js",
   "module": "Matrix.js",
